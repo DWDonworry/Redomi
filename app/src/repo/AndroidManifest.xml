@@ -4,4 +4,6 @@
 
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" tools:node="remove"/>
 
-</manifest>
+</manifest>Version: 1.4.3
+Model: SM-A156U
+Android: 17 (API 37)
